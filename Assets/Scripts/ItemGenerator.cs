@@ -84,7 +84,7 @@ public class ItemGenerator : MonoBehaviour {
 			}
 		}
 		
-		this.transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.z + 15f);
+		this.transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.z + 15;
 	}
 }
 
